@@ -1,0 +1,5 @@
+The purpose of these tools are to provide an example of using conversations API at Twilio. Created by Shane Artman, the intention is to simply exercise the fetching of conversations, removal of conversation and reading of message bodies by a contact.
+
+@todo: Need to create a conversation
+@todo: Create a binding
+@todo: Add message body content
